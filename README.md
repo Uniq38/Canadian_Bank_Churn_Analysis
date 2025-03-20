@@ -14,22 +14,23 @@ Data-driven investigation into customer churn at The Canadian Bank, with visuali
 - **Monitor Churn Triggers:** Focus on Spain and female customers with low balances as priority targets for retention strategies.
 
 ## Files in This Repository
-- **Dataset:** `canadian_bank_churn.csv`  
-- **Dashboard:** `churn_rate_dashboard.pbix` (Power BI file)  
-- **Data Dictionary:** `data_dictionary.md`  
+- Canadian_bank_churn.csv 
+- Power BI Dashboard  
+- Data Dictionary 
 
 ## Dashboard Preview
 ![Dashboard Preview](![image](https://github.com/user-attachments/assets/702a479e-f074-4638-907c-51d3007a1b80)
 
 ## How to Use
-1. Open `churn_rate_dashboard.pbix` in Power BI.  
+1. Open Power BI Dashbord on Google Drive.  
 2. Explore visualizations to uncover insights.  
 3. Leverage recommendations for strategic decision-making.
 
-## Conclusion
+Click [Here](https://drive.google.com/drive/folders/1PX7NeOeFoRk7iWYld2dHnhBHssYE1C2P?usp=drive_link)
+
+##  Conclusion
 The analysis highlights an urgent need for improved customer engagement and tailored retention strategies to prevent further attrition.
 
-Author
 
-sonia Hanson
-(https://www.linkedin.com/in/soniaejumomiojohanson?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+##Author
+[sonia Hanson](https://www.linkedin.com/in/soniaejumomiojohanson?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
